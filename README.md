@@ -1,5 +1,5 @@
 # Veri Yapiları LAB1
-Ders Yürütücüsü: Prof. Yahya KARSLIGİL
+Ders Yürütücüsü: Prof. Yahya KARSLIGİL 
 # Konu : Linkli Liste Kullanımı
 Bu ödevde dinamik bellek yönetimi ile, belleği linkli liste yapısında kullanan diziler ile ilgili bir uygulama yapmanız istenmektedir.   
 
